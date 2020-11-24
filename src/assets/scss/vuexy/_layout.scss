@@ -1,0 +1,15 @@
+/*=========================================================================================
+    File Name: _layout.scss
+    Description: partial- main layout styles container - imports layout styles
+    ----------------------------------------------------------------------------------------
+    Item Name: Direksyon - CSMP
+      Author: Robert Anthony Tribiana - Direksyon LLC
+    Author URL: http://robtribiana.com
+==========================================================================================*/
+
+@import "layout/layoutCommon";
+@import "layout/layoutVertical";
+@import "layout/layoutHorizontal";
+
+@import "layout/theNavbar";
+@import "layout/footer";

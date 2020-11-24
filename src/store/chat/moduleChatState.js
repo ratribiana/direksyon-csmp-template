@@ -1,0 +1,24 @@
+/*=========================================================================================
+  File Name: moduleChatState.js
+  Description: Chat Module State
+  ----------------------------------------------------------------------------------------
+  Item Name: Direksyon - CSMP
+  Author: Robert Anthony Tribiana - Direksyon LLC
+  Author URL: http://robtribiana.com
+==========================================================================================*/
+
+
+export default {
+
+  // Chat Search Query
+  chatSearchQuery: '',
+
+  // Stores All Contacts
+  contacts: [],
+
+  // Stores Chat Contacts
+  chatContacts: [],
+
+  // Stores Chat data(log)
+  chats: {}
+}

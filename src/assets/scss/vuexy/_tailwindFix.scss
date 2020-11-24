@@ -1,0 +1,14 @@
+/*=========================================================================================
+    File Name: _tailwindFixes.scss
+    Description: partial- Tailwind Fixes
+    ----------------------------------------------------------------------------------------
+    Item Name: Direksyon - CSMP
+      Author: Robert Anthony Tribiana - Direksyon LLC
+    Author URL: http://robtribiana.com
+==========================================================================================*/
+
+
+// button fix
+button:focus {
+    outline: none;
+}

@@ -1,0 +1,24 @@
+CRM:
+Salesforce
+HubSpot -
+Pipedrive
+
+Support ticket:
+ZenDesk - open new url
+Jira -
+Teamsupport
+Salesforce Service Cloud
+
+Email/Calendar:
+Outlook
+Gmail
+
+BI tool:
+Google Analytics
+Tableau
+
+
+2196f3
+
+
+Next Week

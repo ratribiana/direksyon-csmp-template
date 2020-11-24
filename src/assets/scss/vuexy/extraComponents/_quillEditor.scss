@@ -1,0 +1,30 @@
+/*=========================================================================================
+    File Name: _quillEditor.scss
+    Description: Styles for quill editor externsion.
+    ----------------------------------------------------------------------------------------
+    Item Name: Direksyon - CSMP
+      Author: Robert Anthony Tribiana - Direksyon LLC
+    Author URL: http://robtribiana.com
+==========================================================================================*/
+
+
+@import "../_variables.scss";
+
+.quill-editor{
+    .ql-bubble{
+        .ql-tooltip{
+            z-index: 51000;
+        }
+    }
+}
+
+.theme-dark {
+  .quill-editor{
+    .ql-snow {
+      &.ql-toolbar,
+      &.ql-container {
+        border-color: $theme-dark-border-color;
+      }
+    }
+  }
+}
